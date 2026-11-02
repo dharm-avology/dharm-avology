@@ -251,13 +251,13 @@ I handle the complete application lifecycle, from initial planning to production
 I'm always interested in connecting with developers, entrepreneurs, businesses, and people building innovative digital products.
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/dharm-avology">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/dharmendra-shukla-1aa206202">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://www.linkedin.com/in/dharmendra-shukla-1aa206202">
     <img src="https://img.shields.io/badge/PORTFOLIO-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
